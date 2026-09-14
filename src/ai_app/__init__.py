@@ -1,0 +1,1 @@
+from ai_app.main import main
