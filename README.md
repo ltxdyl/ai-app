@@ -13,7 +13,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/YOUR_USERNAME/ai-app.git
+git clone https://github.com/ltxdyl/ai-app.git
 cd ai-app
 
 # 安装依赖
